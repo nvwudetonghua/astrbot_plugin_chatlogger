@@ -2,4 +2,4 @@ name: astrbot_plugin_chatlogger
 author: 云巫
 version: 1.0.0
 description: AstrBot 对话记录与检索插件 - 支持群聊/私聊自动记录、LLM智能标签、权重评估、按日期/标签/权重检索与Markdown导出
-repo: https://github.com/nvwudetonghua/astrbot_plugin_livingmemory
+repo: https://github.com/nvwudetonghua/astrbot_plugin_chatlogger
